@@ -1,0 +1,10 @@
+.color-title {
+  margin-top: 10px;
+}
+.ml{
+    padding-right: 20px;
+}
+
+.all {
+    background-color: linear-gradient(red,yellow,blue,green,orange);
+}
