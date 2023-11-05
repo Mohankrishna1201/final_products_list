@@ -1,5 +1,6 @@
 ### `Preview`
-you can find this in youtube link https://www.youtube.com/watch?v=cW3Raga0Jj8
+you can find this in youtube link
+https://youtu.be/fx-z7MkJQG4?si=Q80Gotx_neFMOn72
 
 # Getting Started with Create React App
 
